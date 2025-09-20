@@ -9,4 +9,4 @@ dotenv.config()
 export const decodedPrivateKey = process.env.PRIVATE_KEY;
 
 pump_geyser()
-
+;
